@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 ### 🌱 I’m currently learning:
 
 - #### Ruby (in Epam's 'Ruby course' and in SoftServe 'Ruby for beginners')
 - #### Rails (by myself)
 - #### JavaScript (in 'SigmaSoftware University' "JavaScript course for switchers")
+-->
