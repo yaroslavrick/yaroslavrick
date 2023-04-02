@@ -9,7 +9,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Ruby on Rails student that is looking for the first job as trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  Kryvyi Rih, Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/>
+I am a Ruby on Rails student looking for my first job as a trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  Kryvyi Rih, Ukraine <img src="https://github.com/hampusborgos/country-flags/blob/main/png1000px/ua.png" height="17" width="30"/>
 
 ----
 
