@@ -1,26 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Yaroslav Yenkala</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<!--
-**yaroslavrick/yaroslavrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-## 🌱 I’m currently learning:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### 🌱 I’m currently learning:
 
 - #### Ruby on Rails in Epam's 'Ruby external course'
 
+----
+
+### :man_technologist: About Me :
+
+I am a Ruby on Rails student that is looking for the first job as trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from  Kryvyi Rih, Ukraine.
+
+----
+
+### :hammer_and_wrench: Languages and Tools :
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,git,bash,html,css,scss,js,bootstrap,linux,stackoverflow&perline=6)](https://skillicons.dev)
+
+----
+
+### :bell: Connect with me :
+
+[![Telegram](https://img.shields.io/badge/telegram-2A8BD2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yaroslav_Ye)
+
+----
+
+### :fire: My Stats :
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavrick&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavrick&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavrick&theme=github_dark)
+
+----
+
 ### 🔭 My portfolio:
 
-1. [Personal Finance Manager](https://financeapp-production.up.railway.app/) 
+1. [Personal Finance Manager](https://financeapp-production.up.railway.app/)
    - Rails 7
    - Ruby 3.1.2
    - PostgreSQL
