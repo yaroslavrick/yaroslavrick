@@ -30,6 +30,7 @@ I am a Ruby on Rails student looking for my first job as a trainee <img src="htt
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavrick&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavrick&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavrick&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yaroslavrick&theme=github_dark)
 
 ----
 
