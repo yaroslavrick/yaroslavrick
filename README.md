@@ -3,7 +3,7 @@
 
 ### 🌱 I’m currently learning:
 
-- #### Ruby on Rails in Epam's 'Ruby external course'
+- #### Ruby on Rails in Epam's 'Ruby internal course'
 
 ----
 
