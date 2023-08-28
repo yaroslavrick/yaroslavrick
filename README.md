@@ -36,7 +36,7 @@ I am a Ruby on Rails student looking for my first job as a trainee <img src="htt
 
 ### 🔭 My portfolio:
 
-1. Personal Finance Manager
+1. [My money app](https://financeapp-production.up.railway.app/) [git](https://github.com/yaroslavrick/my_money_app)
    - Rails 7
    - Ruby 3.1.2
    - PostgreSQL
@@ -52,7 +52,7 @@ I am a Ruby on Rails student looking for my first job as a trainee <img src="htt
    - Rails Best Practices
    - rails-i18n
    - HAMLIT
-2.  Cars moto shop
+2.  [Cars moto shop](https://caradvertisementsweb-production.up.railway.app/)
    - Rails 7
    - Ruby 3.1.2
    - PostgreSQL
