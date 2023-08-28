@@ -52,7 +52,7 @@ I am a Ruby on Rails student looking for my first job as a trainee <img src="htt
    - Rails Best Practices
    - rails-i18n
    - HAMLIT
-2.  [Cars moto shop](https://caradvertisementsweb-production.up.railway.app/)
+2.  [Cars moto shop](https://caradvertisementsweb-production.up.railway.app/) [git](https://github.com/yaroslavrick/cars-moto-shop)
    - Rails 7
    - Ruby 3.1.2
    - PostgreSQL
